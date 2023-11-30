@@ -45,7 +45,6 @@
 
 ![image_2023_11_30T16_13_29_863Z](https://github.com/YasminKad/SE_LAB_51/assets/59180210/0ac27a41-a895-4f1b-b879-1f7cd625ce27)
 
-![image_2023_11_30T16_07_17_361Z](https://github.com/YasminKad/SE_LAB_51/assets/59180210/97646164-198b-4006-9e5c-64a4b0671b45)
 
 <h2>سوال 2</h2>
 
